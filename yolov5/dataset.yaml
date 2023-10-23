@@ -1,0 +1,6 @@
+train: ../data/images/training/
+val: ../data/images/validation/
+
+
+nc: 4
+names: ['red', "green", "off", "yellow"]
