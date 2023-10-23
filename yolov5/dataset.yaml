@@ -1,6 +1,6 @@
-train: ../data/images/training/
-val: ../data/images/validation/
+train: ../data/train/images
+val: ../data/valid/images
+test: ../data/test/images
 
-
-nc: 4
-names: ['red', "green", "off", "yellow"]
+nc: 14
+names: ['GreenCircular', 'GreenLeft', 'GreenRight', 'GreenStraight', 'RedCircular', 'RedLeft', 'RedRight', 'RedStraight', 'green', 'red', 'red-light', 'traffic light', 'traffic lights', 'yellow']

@@ -1,4 +1,14 @@
-red
+GreenCircular
+GreenLeft
+GreenRight
+GreenStraight
+RedCircular
+RedLeft
+RedRight
+RedStraight
 green
-off
+red
+red-light
+traffic light
+traffic lights
 yellow
